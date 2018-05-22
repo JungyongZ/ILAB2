@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/JungyongZ/ILAB2/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![kkk](gitpage.JPG)
-참고 : https://varian-lee.github.io/jekyll/
+참고 : [https://varian-lee.github.io/jekyll/](https://varian-lee.github.io/jekyll/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
